@@ -283,12 +283,12 @@ http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 http://103.121.36.238:8081/live/select1/chunks.m3u8
 #EXTINF:-1,Arekay Sports
 http://103.121.36.238:8081/live/bein1/chunks.m3u8
-#EXTINF:-1,Live Football 1
-http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
-#EXTINF:-1,Live Football 2
-http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/chunklist_b1596000_sltur.m3u8
-#EXTINF:-1,Live Football 3
+#EXTINF:-1,TRT Sport
+http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
+#EXTINF:-1,Sky Net Sports
 http://103.111.120.46/hls/star-sports-select-2-hd.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://163.172.29.246:8081/globe/skycricket/playlist.m3u8
 #EXTINF:-1,Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1,Abudhabi Sports 1
